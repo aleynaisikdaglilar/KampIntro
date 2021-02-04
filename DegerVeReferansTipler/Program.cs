@@ -6,6 +6,8 @@ namespace DegerVeReferansTipler
     {
         static void Main(string[] args)
         {
+
+
             //int,decimal, float,double,bool(0,1)=değer tip stack
             //array,class,interface=referance tip
             int sayi1 = 10;
